@@ -1,4 +1,7 @@
-### Hi there 👋
+![]()
+
+### Mi nombre es Daniel y soy un estudiante de programacion! :space_invader:
+
 
 <!--
 **DanielH7-ctrl/DanielH7-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
