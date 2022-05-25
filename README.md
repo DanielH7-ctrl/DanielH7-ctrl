@@ -1,6 +1,6 @@
-![]()
+![](https://github.com/DanielH7-ctrl/DanielH7-ctrl/blob/main/waneella-pixel-art.gif)
 
-### Mi nombre es Daniel y soy un estudiante de programacion! :space_invader:
+## Mi nombre es Daniel y soy un estudiante de programacion! :space_invader:
 
 
 <!--
